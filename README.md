@@ -4,4 +4,4 @@
 
 Baseline - бустинг, затем реализация сетки с эмбедингами для категориальных переменных и word2vec-style эмбедингами для последовательных событий в кейсах. 
 
-Multigpu training - see 'Build nn' section.
+Multigpu training - see 'Build nn' section of the notebook.
